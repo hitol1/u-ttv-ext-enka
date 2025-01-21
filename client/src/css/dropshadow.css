@@ -1,0 +1,12 @@
+.svg-drop-shadow-white-sm {
+    filter: drop-shadow(0px 1px 2px rgba(255, 255, 255, 0.8));
+}
+
+.svg-drop-shadow-black-sm {
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.8));
+}
+
+.drop-shadow-img {
+    -webkit-filter: drop-shadow(5px 5px 5px #000);
+    filter: drop-shadow(3px 0px 5px #000);
+}
